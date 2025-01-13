@@ -4,12 +4,12 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Hydrogen+ by rio113
+kernel.string=Everpal Kernel: Adrenalin Edition by Weaponmasterjax
 do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
-do.cleanuponabort=0
+do.cleanuponabort=1
 device.name1=
 supported.versions=
 supported.patchlevels=
