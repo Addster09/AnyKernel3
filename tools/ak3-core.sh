@@ -943,5 +943,6 @@ setup_ak() {
 ###
 
 ### end methods
-
+ui_print " " "Disclaimer: YOU are responsible for what you have done to your device."
+ui_print " " "The developer of the kernel is not responsible for any damage made to your device."
 setup_ak;
