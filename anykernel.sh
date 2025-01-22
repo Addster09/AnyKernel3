@@ -1,10 +1,10 @@
-### AnyKernel3 Ramdisk Mod Script
+。1### AnyKernel3 Ramdisk Mod Script
 ## osm0sis @ xda-developers
 
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Everpal Kernel: Adrenalin Edition V2 by Weaponmasterjax
+kernel.string=Everpal Kernel: Adrenalin Edition V2.1 by Weaponmasterjax
 do.devicecheck=0
 do.modules=1
 do.systemless=1
