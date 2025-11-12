@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Everpal Kernel: Adrenalin/PRO Edition by Weaponmasterjax
+kernel.string=Everpal: Aqua Kernel by Addster
 do.devicecheck=0
 do.modules=1
 do.systemless=1
